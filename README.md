@@ -1,16 +1,14 @@
-### Hi there 👋
+<img align="right" height = "490em" src = "https://raw.githubusercontent.com/gist/felipe-a-rios/265c645724b62f7ad977ebb7568bbc94/raw/8d290e8ff6157939187eaa8989f28d2bc41a5d15/githubcard.svg" />
+<h1>Salve!:sunglasses: </h1>
+<h3>    Me chamo Felipe, sou estudante de análise e desenvolvimento de sistemas<br> e seja bem vindo ao meu github  </h3>
 
-<!--
-**felipe-a-rios/felipe-a-rios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='left' >   <img src="https://komarev.com/ghpvc/?username=felipe-a-rios&color=red" alt="profile views" />      </p>
 
-Here are some ideas to get you started:
+##  GitHub Analytics  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left "    >
+ <img width="530em" src="https://github-readme-stats.vercel.app/api?username=felipe-a-rios&show_icons=true&theme=radical">
+ <img width="530em"       src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-a-rios&layout=compact&show_icons=true&theme=radical"                        >  
+
+
+</p >
