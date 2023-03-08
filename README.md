@@ -1,6 +1,6 @@
 <img align="right" height = "490em" src = "https://raw.githubusercontent.com/gist/felipe-a-rios/265c645724b62f7ad977ebb7568bbc94/raw/8d290e8ff6157939187eaa8989f28d2bc41a5d15/githubcard.svg" />
-<h1>Salve!:sunglasses: </h1>
-<h3>    Me chamo Felipe, sou jovem aprendiz buscando trocar de carreira<br> e seja bem vindo ao meu github  </h3>
+<h1>Olá!👋 </h1>
+<h3>    Me chamo Felipe, sou desenvolvedor front-end e designer<br></h3>
 
 <p align='left' >   <img src="https://komarev.com/ghpvc/?username=felipe-a-rios&color=red" alt="profile views" />      </p>
 
